@@ -72,7 +72,7 @@
       <!-- Begin page content -->
       <div class="container">
         <div class="page-header">
-          <h1><a href="/seur.php">Seur Get Status v.1</a> <small>Para todos! Y gratis!</small></h1>
+          <h1><a href="/seur.php">Seur Get Status v0.1</a> <small>Para todos! Y gratis!</small></h1>
         </div>
 
 <?php
@@ -142,7 +142,6 @@ echo '
 
     <div id="footer">
       <div class="container">
-        <p class="muted"><a href="https://github.com/SpaHost/Playstation-Network-ID-Live"> Playstation-Network-ID-Live v0.1</a> By <a href="http://www.spahost.es">SpaHost</a>.</p>
-        <p class="muted credit">Example courtesy <a href="http://martinbean.co.uk">Martin Bean</a> and <a href="http://ryanfait.com/sticky-footer/">Ryan Fait</a>.</p>
+        <p class="muted credit"><a href="https://github.com/SpaHost/seur-get-status"> Seur-Get-Status v0.1</a> By <a href="http://www.spahost.es">SpaHost</a>.</p>
       </div>
     </div>
